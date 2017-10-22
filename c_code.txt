@@ -1,0 +1,62 @@
+
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+
+if(size_t(argc)!=5){
+	wrong(); // program ends
+}
+    for(int i=0;i<size_t(argc)-4;i++){
+        if(v7 + v6 - v8 == 55 ){ 
+                if(v6 - v7 + v8 == 81){ 
+                    if(v7 - v6 + v8 == 139){ 
+                        if(v10 + v9 - v11 == 48 ){  
+                            if(v9 - v10 + v11 == 162){ 
+                                if(v10 - v9 + v11 == 54){ 
+                                    if(v13 + v12 - v14 == 53 ){  
+                                        if(v12 - v13 + v14 == 137){ 
+                                             if(v13 - v12 + v14 == 93){ 
+                                                if(v16 + v15 - v17 == 126 ){  
+                                                    if(v15 - v16 + v17 == 64){ 
+                                                        if(v16 - v15 + v17 == 104){ 
+                                                            if(v19 + v18 - v20 == -10 ){  
+                                                                if(v18 - v19 + v20 == 76){ 
+                                                                    if(v19 - v18 + v20 == 76){ 
+                                                                        if(v22 + v21 - v23 == 84 ){  
+                                                                            if(v21 - v22 + v23 == 106){ 
+                                                                                if(v22 - v21 + v23 == 110){ 
+                                                                                    if(v25 + v24 - v26 == 172 ){  
+                                                                                        if(v24 - v25 + v26 == 38){ 
+                                                                                            if(v25 - v24 + v26 == 64){ 
+                        
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                 }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                         }
+                    }
+                }
+            }
+    }
+
+    return 0;
+}
+
+
+
